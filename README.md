@@ -39,11 +39,11 @@ largest aggregate popularity
 There is a lot of information here and it’s easy to get lost in the data. So, 
 to make sure you are using the right data to answer the business questions you’ll follow these steps:
 
-Requirements gathering
+- Requirements gathering
 
-Data cleaning
+- Data cleaning
 
-Data modelling
+- Data modelling
 
 # Tasks to do
 - Project Understanding
