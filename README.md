@@ -22,7 +22,7 @@ Identify the requirements that need to be delivered for this project.
 
 Identify which tasks you should focus on as a Data Analyst.
 
-The goal is to categorize top perfomring contents on the platform by users while maintatining appropriate data practices for data collection and use.
+“An analysis of their content categories showing the top 5 categories with the largest popularity”.
 
 # BUSINESS TASK
 - An audit of their big data practice
