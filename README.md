@@ -45,36 +45,63 @@ largest aggregate popularity
 # Use Case
 
 # DataSet Summary and Data Model:
-User
+* User *
+
  ID: Unique ID of the user (automatically generated) Name: Full name of user
 
- Email: Email address of user
-Profile
+ Email: 
+ 
+ Email address of user Profile
 
- User ID: Unique ID of a user that exists in the User table Interests: Interests of the associated user
+ User ID: 
+ 
+ Unique ID of a user that exists in the User table Interests: Interests of the associated user
 
-Age: Age of the associated user
-Location
-User ID: Unique ID of a user that exists in the User table Address: Full address of the user
+Age:
+
+Age of the associated user Location
+
+User ID: 
+Unique ID of a user that exists in the User table Address: Full address of the user
 Session
 
-User ID: Unique ID of a user that exists in the User table
-Device: Mobile device that they used for this session on the application
-Duration: Amount of time in minutes that this user stayed active on the application during this session
+User ID: 
+
+Unique ID of a user that exists in the User table
+
+Device: 
+
+Mobile device that they used for this session on the application
+
+Duration:
+
+Amount of time in minutes that this user stayed active on the application during this session
 Content
 
-ID: Unique ID of the content that was uploaded (automatically generated) User ID: Unique ID of a user that exists in the User table
+ID:
 
-Type: A string detailing the type of content that was uploaded
+Unique ID of the content that was uploaded (automatically generated) User ID: Unique ID of a user that exists in the User table
 
-Category: A string detailing the category that this content is relevant to URL: Link to the location where this content is stored
+Type: 
+
+A string detailing the type of content that was uploaded
+
+Category:
+
+A string detailing the category that this content is relevant to URL: Link to the location where this content is stored
 Reaction
 
-Content ID: Unique ID of a piece of content that was uploaded
+Content ID: 
 
-User ID: Unique ID of a user that exists in the User table who reacted to this piece of content Type: A string detailing the type of reaction this user gave
+Unique ID of a piece of content that was uploaded
 
-Datetime: The date and time of this reaction
+User ID: 
+
+Unique ID of a user that exists in the User table who reacted to this piece of content Type: A string detailing the type of reaction this user gave
+
+Datetime:
+
+The date and time of this reaction
 
  # ReactionTypes
 Type: A string detailing the type of reaction this user gave
