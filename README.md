@@ -14,7 +14,7 @@ She has reviewed the brief provided by Social Buzz and has assembled a diverse t
 Mae has scheduled a project kick off call with the internal Accenture project team for tomorrow morning.
 Ahead of the call, Mae has shared the project brief so you can get up to speed on what Social Buzz need help with.
 
-Read the brief to:
+**Read the brief to:**
 
 Understand the client and business problem at hand.
 
