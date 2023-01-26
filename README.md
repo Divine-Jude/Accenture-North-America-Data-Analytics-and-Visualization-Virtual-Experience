@@ -63,7 +63,7 @@ to make sure you are using the right data to answer the business questions youâ€
 # DataSet Summary and Data Model
 
 
-# DATA ANALYSIS PROCESS
+# DATA Analysis Process
 
 
 # Data Modelling
@@ -72,7 +72,7 @@ to make sure you are using the right data to answer the business questions youâ€
 # Data Analysis and Visualization
 
 
-# INSIGHTS
+# Insights
 
 
-# RECOMMENDATIONS
+# Recommendations
