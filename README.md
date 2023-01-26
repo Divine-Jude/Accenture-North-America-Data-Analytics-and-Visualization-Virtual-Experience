@@ -14,7 +14,7 @@ She has reviewed the brief provided by Social Buzz and has assembled a diverse t
 Mae has scheduled a project kick off call with the internal Accenture project team for tomorrow morning.
 Ahead of the call, Mae has shared the project brief so you can get up to speed on what Social Buzz need help with.
 
-**Read the brief to:**
+**Project Brief:**
 
 Understand the client and business problem at hand.
 
@@ -22,7 +22,7 @@ Identify the requirements that need to be delivered for this project.
 
 Identify which tasks you should focus on as a Data Analyst.
 
-“An analysis of their content categories showing the top 5 categories with the largest popularity”.
+An analysis of their content categories showing the top 5 categories with the largest popularity”.
 
 # BUSINESS TASK
 - An audit of their big data practice
@@ -49,7 +49,7 @@ to make sure you are using the right data to answer the business questions you�
 
 - Data cleaning
 
-- Merging of sample data set tables
+- Merging of sample data set tables (Data Modeling)
 
 - Analysis of sample data sets with visualizations
 
