@@ -45,7 +45,7 @@ largest aggregate popularity
 # Use Case
 
 # DataSet Summary and Data Model:
-* User *
+**User**
 
  ID: Unique ID of the user (automatically generated) Name: Full name of user
 
