@@ -22,7 +22,7 @@ Identify the requirements that need to be delivered for this project.
 
 Identify which tasks you should focus on as a Data Analyst.
 
-An analysis of their content categories showing the top 5 categories with the largest popularity”.
+An analysis of their content categories showing the top 5 categories with the largest popularity.
 
 # BUSINESS TASK
 - An audit of their big data practice
