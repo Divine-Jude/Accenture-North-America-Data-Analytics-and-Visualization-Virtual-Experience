@@ -59,6 +59,8 @@ to make sure you are using the right data to answer the business questions youâ€
 
 # DataSet Summary and Data Model
 
+A data model - this shows the relationships between all of the data sets, as well as any links that you can use to merge tables.
+
 
 # Data Analysis and Visualization
 
