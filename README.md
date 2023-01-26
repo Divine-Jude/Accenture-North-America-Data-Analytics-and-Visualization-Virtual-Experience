@@ -45,30 +45,20 @@ largest aggregate popularity
 # Use Case
 
 # DataSet Summary and Data Model:
-**User:
+**User:** 
 
- ID: Unique ID of the user (automatically generated) Name: Full name of user
+**ID:** Unique ID of the user (automatically generated) Name: Full name of user
 
-**Email: 
- 
- Email address of user Profile
+**Email:** Email address of user Profile
 
- **User ID:
- 
- Unique ID of a user that exists in the User table Interests: Interests of the associated user
+ **User ID:** Unique ID of a user that exists in the User table Interests: Interests of the associated user
 
-**Age:
+**Age:** Age of the associated user Location
 
-Age of the associated user Location
-
-**User ID:
-
-Unique ID of a user that exists in the User table Address: Full address of the user
+**User ID:** Unique ID of a user that exists in the User table Address: Full address of the user
 Session
 
-**User ID: 
-
-Unique ID of a user that exists in the User table
+**User ID:** Unique ID of a user that exists in the User table
 
 **Device: 
 
