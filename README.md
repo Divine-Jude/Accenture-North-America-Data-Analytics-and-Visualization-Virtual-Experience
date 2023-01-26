@@ -60,7 +60,7 @@ to make sure you are using the right data to answer the business questions youâ€
 - Analysis of sample data sets with visualizations
 
 
-# DATA Analysis Process
+# Data Analysis Process
 
 
 # DataSet Summary and Data Model
