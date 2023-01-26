@@ -60,6 +60,8 @@ to make sure you are using the right data to answer the business questions youâ€
 # DataSet Summary and Data Model
 
 A data model - this shows the relationships between all of the data sets, as well as any links that you can use to merge tables.
+![Annotation Data Model](https://user-images.githubusercontent.com/95667763/214894768-49ce2ee5-13f4-4425-ba48-662a5c140516.png)
+
 
 
 # Data Analysis and Visualization
