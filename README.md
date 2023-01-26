@@ -12,7 +12,6 @@ from text, images, videos and GIFs are posted.
 You’ve been assigned to a new project and the first thing you must do is get up to speed with the 
 business problem that this project is tackling, the requirements that need to be fulfilled as 
 deliverables and the alignment of internal teams with the client. 
-
 You will be working within a large team at Accenture and there will be several people on your
 team doing different roles to make this project a success. 
 
