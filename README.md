@@ -17,8 +17,11 @@ Ahead of the call, Mae has shared the project brief so you can get up to speed o
 Read the brief to:
 
 Understand the client and business problem at hand.
+
 Identify the requirements that need to be delivered for this project.
+
 Identify which tasks you should focus on as a Data Analyst.
+
 The goal is to categorize top perfomring contents on the platform by users while maintatining appropriate data practices for data collection and use.
 
 # BUSINESS TASK
