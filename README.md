@@ -30,7 +30,7 @@ You need to use the client brief to:
 
 The goal is to categorize top perfomring contents on the platform by users while maintatining appropriate data practices for data collection and use.
 
-# BUSINESS TASK:
+# BUSINESS TASK
 - An audit of their big data practice
 - Recommendations for a successful IPO
 - An analysis of their content categories that highlights the top 5 categories with the
@@ -60,4 +60,19 @@ to make sure you are using the right data to answer the business questions youâ€
 - Analysis of sample data sets with visualizations
 
 
-# DataSet Summary and Data Model:
+# DataSet Summary and Data Model
+
+
+# DATA ANALYSIS PROCESS
+
+
+# Data Modelling
+
+
+# Data Analysis and Visualization
+
+
+# INSIGHTS
+
+
+# RECOMMENDATIONS
