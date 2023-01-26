@@ -31,79 +31,28 @@ You need to use the client brief to:
 The goal is to categorize top perfomring contents on the platform by users while maintatining appropriate data practices for data collection and use.
 
 # BUSINESS TASK:
-An audit of their big data practice
+- An audit of their big data practice
 - Recommendations for a successful IPO
 - An analysis of their content categories that highlights the top 5 categories with the
 largest aggregate popularity
 
+There is a lot of information here and it’s easy to get lost in the data. So, 
+to make sure you are using the right data to answer the business questions you’ll follow these steps:
+
+Requirements gathering
+Data cleaning
+Data modelling
+
 # Tasks to do
+- Project Understanding
 
+- Data Cleaning & Modeling
 
+- Data Visualization & Storytelling
 
+- Present to the Client
 
 
 # Use Case
 
 # DataSet Summary and Data Model:
-**User:** 
-
-**ID:** Unique ID of the user (automatically generated) Name: Full name of user
-
-**Email:** Email address of user Profile
-
- **User ID:** Unique ID of a user that exists in the User table Interests: Interests of the associated user
-
-**Age:** Age of the associated user Location
-
-**User ID:** Unique ID of a user that exists in the User table Address: Full address of the user
-Session
-
-**User ID:** Unique ID of a user that exists in the User table
-
-**Device: 
-
-Mobile device that they used for this session on the application
-
-**Duration:
-
-Amount of time in minutes that this user stayed active on the application during this session
-Content
-
-**ID:
-
-Unique ID of the content that was uploaded (automatically generated) User ID: Unique ID of a user that exists in the User table
-
-**Type: 
-
-A string detailing the type of content that was uploaded
-
-**Category:
-
-A string detailing the category that this content is relevant to URL: Link to the location where this content is stored
-Reaction
-
-**Content ID: 
-
-Unique ID of a piece of content that was uploaded
-
-**User ID: 
-
-Unique ID of a user that exists in the User table who reacted to this piece of content Type: A string detailing the type of reaction this user gave
-
-**Datetime:
-
-The date and time of this reaction
-
-**ReactionTypes:
- 
-**Type: 
-
-A string detailing the type of reaction this user gave
-
-**Sentiment: 
-
-A string detailing whether this type of reaction is considered as positive, negative or neutral
-
-**Score: 
-
-This is a number calculated by Social Buzz that quantifies how “popular” each reaction is. A reaction type with a higher score should be considered as a more popular reaction.
