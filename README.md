@@ -51,11 +51,13 @@ largest aggregate popularity
 There is a lot of information here and it’s easy to get lost in the data. So, 
 to make sure you are using the right data to answer the business questions you’ll follow these steps:
 
-- Requirements gathering
+- Extraction of sample data sets
 
 - Data cleaning
 
-- Data modelling
+- Merging of sample data set tables
+
+- Analysis of sample data sets with visualizations
 
 
 # DataSet Summary and Data Model:
