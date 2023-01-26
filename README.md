@@ -36,14 +36,6 @@ The goal is to categorize top perfomring contents on the platform by users while
 - An analysis of their content categories that highlights the top 5 categories with the
 largest aggregate popularity
 
-There is a lot of information here and it’s easy to get lost in the data. So, 
-to make sure you are using the right data to answer the business questions you’ll follow these steps:
-
-- Requirements gathering
-
-- Data cleaning
-
-- Data modelling
 
 # Tasks to do
 - Project Understanding
@@ -56,5 +48,14 @@ to make sure you are using the right data to answer the business questions you�
 
 
 # Use Case
+There is a lot of information here and it’s easy to get lost in the data. So, 
+to make sure you are using the right data to answer the business questions you’ll follow these steps:
+
+- Requirements gathering
+
+- Data cleaning
+
+- Data modelling
+
 
 # DataSet Summary and Data Model:
