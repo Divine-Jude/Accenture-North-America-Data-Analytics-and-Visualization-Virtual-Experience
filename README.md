@@ -13,4 +13,4 @@ Due to their rapid growth and digital nature of their core product, the amount o
 create, collect and must analyze is huge. Every day over 100,000 pieces of content, ranging
 from text, images, videos and GIFs are posted.
 
-The goal is to categorize the data posted and reacted to on the platform by users while maintatining appropriate data practices for data collection and use.
+The goal is to categorize top perfomring contents on the platform by users while maintatining appropriate data practices for data collection and use.
