@@ -1,7 +1,7 @@
-# Accenture-Virtual-Intership
+# ACCENTURE-VIRTUAL-INTERSHIP
 Virtual Experience Program
 
-# CASE STUDY
+# Case study
 Social Buzz was founded by two former engineers from a large social media conglomerate, one
 from London and the other from San Francisco.
 
@@ -24,7 +24,7 @@ Identify which tasks you should focus on as a Data Analyst.
 
 An analysis of their content categories showing the top 5 categories with the largest popularity.
 
-# BUSINESS TASK
+# Business task
 - An audit of their big data practice
 - Recommendations for a successful IPO
 - An analysis of their content categories that highlights the top 5 categories with the
@@ -54,7 +54,7 @@ to make sure you are using the right data to answer the business questions youâ€
 - Analysis of sample data sets with visualizations
 
 
-# Data Analysis Process
+# Data analysis process
 
 
 # DataSet Summary and Data Model
@@ -64,7 +64,7 @@ A data model - this shows the relationships between all of the data sets, as wel
 
 
 
-# Data Analysis and Visualization
+# Data analysis & visualization
 
 
 # Insights
