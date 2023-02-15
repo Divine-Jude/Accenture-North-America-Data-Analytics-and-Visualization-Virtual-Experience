@@ -54,7 +54,7 @@ this problem.
 to process and model this data into a dataset that can precisely answer the
 business questions and produce the results needed.
 
-- Data analysis - With our new dataset, we used our analytical expertise to
+- Data analysis - with our new dataset, we used our analytical expertise to
 uncover insights from this dataset and to produce visualizations to describe the
 insights.
 
