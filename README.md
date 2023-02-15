@@ -86,7 +86,7 @@ and easier to understand compared to Gif, video and audio.
 But now, onto the main question... which is... what were the top 5 most popular
 categories of posts?
 
-![Annotation 2023-02-15 153151](https://user-images.githubusercontent.com/95667763/219061475-e571c09a-bffc-4c64-9191-4bf7d707fb26.png)
+![Annotation most popular contents](https://user-images.githubusercontent.com/95667763/219061475-e571c09a-bffc-4c64-9191-4bf7d707fb26.png)
 
 From our analysis you can see the top 5 most popular contents were Animals, Science, Healthy Eating, Technology, Food in descending order.  Animals had an aggregate popularity score of around 74965. This data suggests that users are particularly interested in content related to animals, science, and healthy eating, with technology and food also being popular topics.
 
@@ -96,6 +96,11 @@ Technology is a broad and dynamic category that can include a wide range of topi
 
 It's worth noting that these are just general trends, and it's important to consider the specific interests of your target audience ensuring that this content are opposed to individual users at the forefront of user feeds.
 
+![Annotation % split of popularity between the top 5 categories](https://user-images.githubusercontent.com/95667763/219062924-2c71e6c9-652c-47ed-8e2e-689ebacdfe41.png)
+
+Additionally, you can see from this chart the % split of popularity between the top 5 categories. There is not much difference between the share of each category, however, the difference between the 1st most popular, animals and the 2nd most popular, science, is the largest gap equal to 1.1%. 
+
+In business terms, this could suggest that the most popular category, animals, is tailing away from the rest of the categories and may continue to get more and more popular. To avoid an issue where 1 content category consumes the entire platform, it will be important for you to ensure that any algorithms used to govern the content on the platform gives a fair balance to the content categories.
 
 
 
