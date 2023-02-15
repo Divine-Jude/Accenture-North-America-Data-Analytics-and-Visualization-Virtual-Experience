@@ -69,9 +69,20 @@ A data model - this shows the relationships between all of the data sets, as wel
 
 
 # Data analysis & visualization
+![Annotation 2023-02-15 133157](https://user-images.githubusercontent.com/95667763/219028969-2ef61f14-093a-4f94-81bb-639379d9aede.png)
 
 
-# Insights
+From your data we found that you had a total of 16 unique categories of posts
+across your sample dataset. This includes things such as Food, Science and
+Animals.
+As well as this, there were 1897 reactions from just the animal category alone!
+People obviously really like animals!
+And also the most common content type for users to post within was Photos. This
+could be due to the visual nature of photos which can be more attention grabbing
+and eaiser to understand compared to Gif, video and audio.
+But now, onto the main question... which is... what were the top 5 most popular
+categories of posts?
+
 
 
 # Recommendations
