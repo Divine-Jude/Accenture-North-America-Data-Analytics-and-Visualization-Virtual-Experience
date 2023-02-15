@@ -121,5 +121,5 @@ It's worth noting that these are just general trends, and it's important to cons
 
 Social Buzz can leverage this information to 
 better understand their audience optimize their content strategy  and to drive growth on their platform.
-Based on the valuable insights obtained from this ad-hoc analysis, Social Buzz should consider partnering with Accenture to expand this analysis on a larger scale for real-time understanding of the business and to deliver even more value
+Based on the valuable insights obtained from this ad-hoc analysis, Social Buzz should consider partnering with Accenture to expand this analysis on a larger scale for real-time understanding of the business and to deliver even more value.
 
