@@ -33,38 +33,22 @@ largest aggregate popularity
 
 # Tasks to do
 - Project Understanding
-
 - Data Cleaning & Modeling
-
 - Data Visualization & Storytelling
-
 - Present to the Client
 
 
-# Use Case
+# Data analysis process
 There is a lot of information here and it’s easy to get lost in the data. So, 
 to make sure you are using the right data to answer the business questions you’ll follow these steps:
 
-- Extraction of sample data sets
-
+- Data Extraction:  Extraction of sample data sets
 - Data cleaning
-
-- Merging of sample data set tables (Data Modeling)
-
-- Analysis of sample data sets with visualizations
-
-
-# Data analysis process
-
- - Data Understanding
- - Data Extraction
- - Data Modelling
- - Data Analysis
- - Recommendations
+- Data Modelling: Merging of sample data set tables (Data Modeling)
+-Data Analysis: Analysis of sample data sets with visualizations
 
 
 # DataSet Summary and Data Model
-
 A data model - this shows the relationships between all of the data sets, as well as any links that you can use to merge tables.
 ![Annotation Data Model](https://user-images.githubusercontent.com/95667763/214894768-49ce2ee5-13f4-4425-ba48-662a5c140516.png)
 
