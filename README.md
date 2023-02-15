@@ -50,7 +50,7 @@ domain of your business.
 available datasets and thought about what an ideal dataset should look like for
 this problem.
 
--Data modelling - After ensuring the data was clean for analysis, we needed
+- Data modelling - after ensuring the data was clean for analysis, we needed
 to process and model this data into a dataset that can precisely answer the
 business questions and produce the results needed.
 
