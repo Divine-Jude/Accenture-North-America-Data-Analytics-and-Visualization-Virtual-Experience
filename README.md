@@ -39,13 +39,27 @@ largest aggregate popularity
 
 # Data analysis process
 There is a lot of information here and it’s easy to get lost in the data. So, 
-to make sure you are using the right data to answer the business questions you’ll follow these steps:
+to make sure you are using the right data to answer the business questions, how did I tackle this problem?
+Well I approached it in 5 steps:
 
-- Data Extraction:  Extraction of sample data sets
-- Data cleaning
-- Data Modelling: Merging of sample data set tables (Data Modeling)
--Data Analysis: Analysis of sample data sets with visualizations
+- Data understanding - the key to success on any data project is to understand
+the data in detail. So we took the time to understand the data model and
+domain of your business.
 
+- Data cleaning - after understanding your business, we then cleaned the
+available datasets and thought about what an ideal dataset should look like for
+this problem.
+
+-Data modelling - After ensuring the data was clean for analysis, we needed
+to process and model this data into a dataset that can precisely answer the
+business questions and produce the results needed.
+
+- Data analysis - With our new dataset, we used our analytical expertise to
+uncover insights from this dataset and to produce visualizations to describe the
+insights.
+
+And finally we used these insights to unlock business decisions and to make
+recommendations on next steps.
 
 # DataSet Summary and Data Model
 A data model - this shows the relationships between all of the data sets, as well as any links that you can use to merge tables.
