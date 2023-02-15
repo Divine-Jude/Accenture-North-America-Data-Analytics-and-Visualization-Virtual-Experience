@@ -69,7 +69,7 @@ A data model - this shows the relationships between all of the data sets, as wel
 
 
 # Data analysis & visualization
-![Annotation 2023-02-15 133157](https://user-images.githubusercontent.com/95667763/219028969-2ef61f14-093a-4f94-81bb-639379d9aede.png)
+![Annotation Data Insights](https://user-images.githubusercontent.com/95667763/219028969-2ef61f14-093a-4f94-81bb-639379d9aede.png)
 
 
 From your data we found that you had a total of 16 unique categories of posts
@@ -87,6 +87,15 @@ But now, onto the main question... which is... what were the top 5 most popular
 categories of posts?
 
 ![Annotation 2023-02-15 153151](https://user-images.githubusercontent.com/95667763/219061475-e571c09a-bffc-4c64-9191-4bf7d707fb26.png)
+From our analysis you can see the top 5 most popular contents were Animals, Science, Healthy Eating, Technology, Food in descending order.  Animals had an aggregate popularity score of around 74965. This data suggests that users are particularly interested in content related to animals, science, and healthy eating, with technology and food also being popular topics.
+
+Animals and science are broad categories that can encompass a wide range of subtopics, from cute animal videos and photos to scientific research and discoveries. Healthy Eating is another broad category that may include information about nutrition, diet, and wellness. 
+
+Technology is a broad and dynamic category that can include a wide range of topics, from the latest smartphones and laptops to cutting-edge research in fields like artificial intelligence and quantum computing. Food is another broad category that can encompass everything from recipes and cooking tips to restaurant reviews and food-related news.
+
+It's worth noting that these are just general trends, and it's important to consider the specific interests of your target audience ensuring that this content are opposed to individual users at the forefront of user feeds.
+![image](https://user-images.githubusercontent.com/95667763/219062018-cdcb1204-04ba-4507-ad39-141e458f8c1d.png)
+
 
 
 
