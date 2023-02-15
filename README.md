@@ -21,8 +21,7 @@ Understand the client and business problem at hand.
 Identify the requirements that need to be delivered for this project.
 
 Identify which tasks you should focus on as a Data Analyst.
-
-An analysis of their content categories showing the top 5 categories with the largest popularity.
+analysis their content categories showing the top 5 categories with the largest popularity.
 
 # Business task
 - An audit of their big data practice
@@ -50,6 +49,7 @@ to make sure you are using the right data to answer the business questions youâ€
 
 # DataSet Summary and Data Model
 A data model - this shows the relationships between all of the data sets, as well as any links that you can use to merge tables.
+
 ![Annotation Data Model](https://user-images.githubusercontent.com/95667763/214894768-49ce2ee5-13f4-4425-ba48-662a5c140516.png)
 
 
