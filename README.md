@@ -86,6 +86,8 @@ and easier to understand compared to Gif, video and audio.
 But now, onto the main question... which is... what were the top 5 most popular
 categories of posts?
 
+![Annotation 2023-02-15 153151](https://user-images.githubusercontent.com/95667763/219061475-e571c09a-bffc-4c64-9191-4bf7d707fb26.png)
+
 
 
 
