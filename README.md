@@ -21,7 +21,7 @@ Understand the client and business problem at hand.
 Identify the requirements that need to be delivered for this project.
 
 Identify which tasks you should focus on as a Data Analyst.
-analysis their content categories showing the top 5 categories with the largest popularity.
+(Analysis their content categories showing the top 5 categories with the largest popularity)
 
 # Business task
 - An audit of their big data practice
