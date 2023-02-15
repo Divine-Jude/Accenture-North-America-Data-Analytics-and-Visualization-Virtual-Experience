@@ -81,7 +81,7 @@ People obviously really like animals!
 
 And also the most common content type for users to post within was Photos. This
 could be due to the visual nature of photos which can be more attention grabbing
-and eaiser to understand compared to Gif, video and audio.
+and easier to understand compared to Gif, video and audio.
 
 But now, onto the main question... which is... what were the top 5 most popular
 categories of posts?
