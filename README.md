@@ -56,6 +56,12 @@ to make sure you are using the right data to answer the business questions youâ€
 
 # Data analysis process
 
+ - Data Understanding
+ - Data Extraction
+ - Data Modelling
+ - Data Analysis
+ - Recommendations
+
 
 # DataSet Summary and Data Model
 
