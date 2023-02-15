@@ -103,7 +103,23 @@ Additionally, you can see from this chart the % split of popularity between the 
 In business terms, this could suggest that the most popular category, animals, is tailing away from the rest of the categories and may continue to get more and more popular. To avoid an issue where 1 content category consumes the entire platform, it will be important for you to ensure that any algorithms used to govern the content on the platform gives a fair balance to the content categories.
 
 
+# Summary & Recommendations
+So to summarize:
+We tackled this task and found the top 5 most popular categories as asked, but we also went one step further.
 
+- We found that animals and science are the two most popular categories,
+suggesting that users like "real-life" and "factual" content.
 
+- We also found that food was a common theme amongst popular content and
+the most popular food category was healthy eating. This could be a signal to
+show the types of people that are using your platform, and you could use this
+insight to boost engagement even further. For example, you could run a
+campaign with content focused on this category or work with healthy eating
+brands to promote content.
 
-# Recommendations
+It's worth noting that these are just general trends, and it's important to consider the specific interests of your target audience ensuring that content are opposed to individual users at the forefront of user feeds.
+
+Social Buzz can leverage this information to 
+better understand their audience optimize their content strategy  and to drive growth on their platform.
+Based on the valuable insights obtained from this ad-hoc analysis, Social Buzz should consider partnering with Accenture to expand this analysis on a larger scale for real-time understanding of the business and to deliver even more value
+
