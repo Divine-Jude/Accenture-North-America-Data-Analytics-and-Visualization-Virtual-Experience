@@ -1,4 +1,4 @@
-# ACCENTURE-VIRTUAL-INTERSHIP
+# Accenture North America Data Analytics and Visualization
 Virtual Experience Program
 
 # Case study
