@@ -14,27 +14,22 @@ She has reviewed the brief provided by Social Buzz and has assembled a diverse t
 Mae has scheduled a project kick off call with the internal Accenture project team for tomorrow morning.
 Ahead of the call, Mae has shared the project brief so you can get up to speed on what Social Buzz need help with.
 
-**Project Brief:**
+# Project Understanding:
+-The client, Social Buzz, is a rapidly growing company that generates and collects a large amount of data from their core product, which is a social media platform.
+-They require help from Accenture to analyze their data and provide recommendations for a successful IPO.
+-As a Data Analyst, the task is to analyze their content categories and identify the top 5 categories with the largest aggregate popularity.
 
-Understand the client and business problem at hand.
+# Requirements for the Project:
+-Conduct an audit of Social Buzz's big data practices to identify areas for improvement and optimization.
+-Provide recommendations for a successful IPO that are supported by data analysis.
+-Analyze their content categories and identify the top 5 categories with the largest aggregate popularity.
 
-Identify the requirements that need to be delivered for this project.
-
-Identify which tasks you should focus on as a Data Analyst.
-(Analysis their content categories showing the top 5 categories with the largest popularity)
-
-# Business task
-- An audit of their big data practice
-- Recommendations for a successful IPO
-- An analysis of their content categories that highlights the top 5 categories with the
-largest aggregate popularity
-
-
-# Tasks to do
-- Project Understanding
-- Data Cleaning & Modeling
-- Data Visualization & Storytelling
-- Present to the Client
+# Tasks for a Data Analyst:
+-Conduct data cleaning and modeling to ensure that the data is accurate and appropriate for analysis.
+-Analyze the content categories and calculate their aggregate popularity, which can be done by analyzing the number of posts, likes, comments, shares, and other relevant metrics.
+-Visualize the results using appropriate data visualization techniques and tools.
+-Tell a compelling story that highlights the key insights and recommendations based on the analysis.
+-Present the results and recommendations to the client in a clear and concise manner.
 
 
 # Data analysis process
